@@ -1,0 +1,15 @@
+Dette er de bibliotekene du trenger:
+
+total 1803
+drwxr-xr-x    2 Magnus   Administ     4096 Aug 28 15:17 .
+drwxr-xr-x   10 Magnus   Administ     4096 Aug 28 15:17 ..
+-rw-r--r--    1 Magnus   Administ  1547926 Aug 22 16:42 akka-core_2.8.0-0.10.jar
+-rw-r--r--    1 Magnus   Administ   305001 Aug 22 16:41 commons-httpclient-3.1.jar
+-rw-r--r--    1 Magnus   Administ   371093 Aug 22 16:40 configgy-2.8.0-1.5.5.jar
+-rw-r--r--    1 Magnus   Administ     4743 Aug 22 16:41 jersey-scala-1.2.jar
+-rw-r--r--    1 Magnus   Administ    46367 Aug 22 16:41 jsr311-api-1.1.1.jar
+-rw-r--r--    1 Magnus   Administ        0 Aug 28 15:17 libs.txt
+-rw-r--r--    1 Magnus   Administ   367444 Aug 22 16:41 log4j-1.2.14.jar
+-rw-r--r--    1 Magnus   Administ   832683 Aug 22 16:41 multiverse-alpha-0.6.jar
+-rw-r--r--    1 Magnus   Administ   179472 Aug 22 16:41 sjson-0.7-2.8.0.jar
+-rw-r--r--    1 Magnus   Administ    25496 Aug 22 16:41 slf4j-api-1.6.0.jar
