@@ -10,7 +10,7 @@ class SubscriptionActor extends Actor {
       log.info("Subscribe(" + id + ")")
       subscriptions += Subscription(id)
     case Unsubscribe(id) => 
-      log.info("Unsubscrive(" + id + ")")
+      log.info("Unsubscribe(" + id + ")")
       subscriptions -= Subscription(id)
     case SubscriberList => 
       log.info("SubscriberList")
